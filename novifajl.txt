@@ -1,0 +1,6 @@
+Napisati program koji pita korisnika da proslijedi ime file-a. 
+Nakon sto je korisnik proslijedio ime file-a, program treba da: 
+ispise broj unikatnih rijeci u file-u
+ukupan broj rijeci u file-u
+broj samoglasnika u file-u
+broj suglasnika u file-u
